@@ -1,0 +1,9 @@
+input[type=text]:disabled {
+    border: 0px solid;
+    border-radius: 0px;
+}
+
+input[type=text]:enabled{
+    border: 2px solid rgb(0, 110, 255);
+    border-radius: 4px;
+}
